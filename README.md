@@ -7,5 +7,5 @@ The following algorithms are implemented
  3. Baum-Welch Method using the forward-backward algorithm for learning HMM parameters
  
 *References*:
-1. [*Durbin, R., Eddy, S. R., Krogh, A., & Mitchison, G. (1998). Biological Sequence Analysis. In Biological Sequence Analysis.*](https://doi.org/10.1017/cbo9780511790492)
-2. [*Huw A. Ogilvie (2020). Blog — Species and Gene Evolution*](https://www.cs.rice.edu/~ogilvie/)
+1. [Durbin, R., Eddy, S. R., Krogh, A., & Mitchison, G. (1998). *Biological Sequence Analysis.*](https://doi.org/10.1017/cbo9780511790492)
+2. [Huw A. Ogilvie (2020). *Blog — Species and Gene Evolution*](https://www.cs.rice.edu/~ogilvie/)
